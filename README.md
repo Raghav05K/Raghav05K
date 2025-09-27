@@ -12,6 +12,12 @@ Email Me 👉 ✉️ **khandelwalraghav0502@gmail.com** For Collaboration/Projec
 - 🏅 Earned *Gold Badge in Java on HackerRank*  
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/raghav-khandelwal-90292a209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)**
 
+- <!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raghav-khandelwal-90292a209) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khandelwalraghav0502@gmail.com) 
