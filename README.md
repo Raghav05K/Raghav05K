@@ -29,7 +29,7 @@ Email Me 👉 ✉️ **khandelwalraghav0502@gmail.com** For Collaboration/Projec
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raghav05K&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarchavan-git&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raghav05K&theme=tokyonight" height="180px"/>
 </p>  
 
 ## 🏆 GitHub Trophies
