@@ -32,8 +32,8 @@ Email Me 👉 ✉️ **khandelwalraghav0502@gmail.com** For Collaboration/Projec
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarchavan-git&theme=tokyonight" height="180px"/>
 </p>  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Raghav05K&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Raghav05K&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=6)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
